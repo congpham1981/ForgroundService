@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnStartService, btnStopService;
 
+    //Test commit from the AndroidStudio
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
