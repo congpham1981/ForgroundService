@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnStartService, btnStopService;
 
-    //Test commit from the AndroidStudio
+    //Test commit from the AndroidStudio.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
